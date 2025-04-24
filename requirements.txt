@@ -2,7 +2,7 @@ git+https://github.com/kashishg173/BasicSR.git@master
 facexlib>=0.3.0
 lmdb>=1.6.0
 numpy>=1.26.0
-opencv-python-headless==4.9.0.80
+opencv
 pyyaml>=6.0
 scipy>=1.13.0
 tb-nightly
