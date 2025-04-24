@@ -2,6 +2,7 @@ git+https://github.com/kashishg173/BasicSR.git@master
 facexlib>=0.2.5
 lmdb
 numpy
+opencv
 opencv-python-headless
 pyyaml
 scipy
