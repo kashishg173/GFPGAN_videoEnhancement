@@ -15,4 +15,4 @@ gfpgan
 realesrgan
 moviepy==1.0.3
 opencv-python-headless
-skimage
+scikit-image
